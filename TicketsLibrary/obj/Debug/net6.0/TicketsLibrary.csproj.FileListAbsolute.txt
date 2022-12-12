@@ -1,0 +1,12 @@
+/Users/marmelad/RiderProjects/lab10/TicketsLibrary/bin/Debug/net6.0/TicketsLibrary.deps.json
+/Users/marmelad/RiderProjects/lab10/TicketsLibrary/bin/Debug/net6.0/TicketsLibrary.dll
+/Users/marmelad/RiderProjects/lab10/TicketsLibrary/bin/Debug/net6.0/TicketsLibrary.pdb
+/Users/marmelad/RiderProjects/lab10/TicketsLibrary/obj/Debug/net6.0/TicketsLibrary.csproj.AssemblyReference.cache
+/Users/marmelad/RiderProjects/lab10/TicketsLibrary/obj/Debug/net6.0/TicketsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marmelad/RiderProjects/lab10/TicketsLibrary/obj/Debug/net6.0/TicketsLibrary.AssemblyInfoInputs.cache
+/Users/marmelad/RiderProjects/lab10/TicketsLibrary/obj/Debug/net6.0/TicketsLibrary.AssemblyInfo.cs
+/Users/marmelad/RiderProjects/lab10/TicketsLibrary/obj/Debug/net6.0/TicketsLibrary.csproj.CoreCompileInputs.cache
+/Users/marmelad/RiderProjects/lab10/TicketsLibrary/obj/Debug/net6.0/TicketsLibrary.dll
+/Users/marmelad/RiderProjects/lab10/TicketsLibrary/obj/Debug/net6.0/refint/TicketsLibrary.dll
+/Users/marmelad/RiderProjects/lab10/TicketsLibrary/obj/Debug/net6.0/TicketsLibrary.pdb
+/Users/marmelad/RiderProjects/lab10/TicketsLibrary/obj/Debug/net6.0/ref/TicketsLibrary.dll

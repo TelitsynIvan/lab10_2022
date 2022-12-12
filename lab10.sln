@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{E3070BA9-BFC1-4F26-AA1A-A04BA9432260}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketsLibrary", "TicketsLibrary\TicketsLibrary.csproj", "{ECBD7D4C-D3F4-4914-919A-C4013BE3DCDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "number1", "number1\number1.csproj", "{D5179A4B-D064-422A-AAEB-2304B47BEF9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3070BA9-BFC1-4F26-AA1A-A04BA9432260}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3070BA9-BFC1-4F26-AA1A-A04BA9432260}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3070BA9-BFC1-4F26-AA1A-A04BA9432260}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3070BA9-BFC1-4F26-AA1A-A04BA9432260}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECBD7D4C-D3F4-4914-919A-C4013BE3DCDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECBD7D4C-D3F4-4914-919A-C4013BE3DCDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECBD7D4C-D3F4-4914-919A-C4013BE3DCDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECBD7D4C-D3F4-4914-919A-C4013BE3DCDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5179A4B-D064-422A-AAEB-2304B47BEF9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5179A4B-D064-422A-AAEB-2304B47BEF9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5179A4B-D064-422A-AAEB-2304B47BEF9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5179A4B-D064-422A-AAEB-2304B47BEF9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
